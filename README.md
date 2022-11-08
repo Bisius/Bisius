@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bisius
+- 👀 I’m interested in programming, 3D printing and everything reguarding technology
+- 🌱 I’m currently using C/C++, Typescript and Python for work and personal projects
+- 💞️ I'd like to collaborate anyone who wants with
+- 📫 How to reach me: bisius98@gmail.com
